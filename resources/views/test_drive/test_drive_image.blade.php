@@ -3,7 +3,7 @@
     <div class="d-dealer-image-section">
         <div class="d-dealer-image-row">
             <div class="d-dealer-column">
-                <img class="d-dealer-img" src="{{ asset('storage/images/test_drive/sample-banner-1.jpg') }}" alt="">
+                <img class="d-dealer-img" src="{{ asset('storage/images/home/Banner-2.jpg') }}" alt="">
             </div>
         </div>
     </div>

@@ -7,8 +7,8 @@
                 <img src="{{ asset('storage/images/contact/isuzu-logo.png') }}" alt="">
                 <div class="d-contact-form-text-container">
                     <p class="d-contact-form-desc">{!! trans('index_lang.contact_address') !!}</p>
-                    <p class="d-contact-form-tel">{{__('index_lang.contact_tel')}} : <a href="tel:+856 21 417 387">021 417 387</a></p>
-                    <p class="d-contact-form-tel">{{__('index_lang.contact_fax')}} : <a href="tel:+856 21 417 387">021 417 387</a></p>
+                    <p class="d-contact-form-tel">{{__('index_lang.contact_tel')}} : <a href="tel:+856 21 417 387">077 668 899</a></p>
+                    <p class="d-contact-form-tel">{{__('index_lang.contact_fax')}} : <a href="tel:+856 21 417 387">077 668 899</a></p>
                 </div>
                 <div class="d-contact-form-social-container">
                     <a class="d-contact-form-social-button" href="https://www.facebook.com/isuzulaosofficial"><i class="fab fa-facebook"></i></a>

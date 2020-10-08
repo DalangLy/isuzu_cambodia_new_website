@@ -15,7 +15,7 @@
                     </div>
                     <div class="d-billboard-center-content-separator"></div>
                     <div class="d-billboard-center-content-top-40">
-                        <h3 data-aos="slide-right" data-aos-duration="1000">ຜູ້ນໍາແຫ່ງໂລກ</br>ກະບະໂຕຈິງ</h3>
+                        <h3 data-aos="slide-right" data-aos-duration="1000">នវានុវឌ្ឍន៍ថ្មីនៃឧត្តមភាព</h3>
                     </div>
                 </div>
                 <div class="d-billboard-center-content-bottom">

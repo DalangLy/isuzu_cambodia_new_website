@@ -38,19 +38,19 @@ return [
     'test_drive_showroom_four' => 'CHAMPASACK BRANCH: No.13S Road, Ban Chokaumnoi, Pakse District, Champasak Province',
 
     //dealer
-    'dealer_ils_header' => 'Isuzu Dealer<br/>Isuzu Lao Service Sole Co., Ltd. (ILS)',
-    'dealer_vsa_header' => 'Isuzu Dealer</br> Isuzu Lao VSA Co., Ltd. (VSA)',
-    'dealer_ils_address_one' => 'Head Quarters<br/>Km.8, Luang Prabang Road<br/>(13th North),<br/>Nalao Village, Sikhottabong District,<br/>Vientiane Capital',
-    'dealer_ils_address_two' => 'Champasak Branch<br/>13th South Road, Keo Samphan Village,<br/>Pakse City, Champasak Province',
-    'dealer_vsa_address_one' => 'Head Quarters<br/>307 ASEAN Rd (T2),<br/>Ban Nongduang Neua,<br/>Sikhottabong District,<br/>Vientiane Capital',
-    'dealer_vsa_address_two' => 'Champasak BranchKm.<br/>Km. 3, 13 South Road,<br/>Ban Chokamnuai, Pakse District,<br/>Champasak Province',
+    'dealer_ils_header' => 'Isuzu Dealer<br/>Isuzu Cambodia',
+    'dealer_vsa_header' => 'Isuzu Dealer</br> Isuzu Cambodia',
+    'dealer_ils_address_one' => 'Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh',
+    'dealer_ils_address_two' => 'Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh',
+    'dealer_vsa_address_one' => 'Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh',
+    'dealer_vsa_address_two' => 'Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh',
     'dealer_tel' => 'Tel',
     'dealer_fax' => 'Fax',
     'dealer_map' => 'Isuzu Dealer Map',
 
 
     //contact
-    'contact_address' => 'Address: Tri Petch Isuzu Sales Co., Ltd.,<br/>Kolao Tower II, 8 Floor, 23 Singha Road,<br/>Vientiane, Lao PDR',
+    'contact_address' => 'Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh,Cambodia',
     'contact_tel' => 'Tel',
     'contact_fax' => 'Fax',
     'contact_input_header' => 'Contact Isuzu',

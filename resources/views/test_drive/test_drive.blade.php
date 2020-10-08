@@ -87,9 +87,9 @@
                     <div class="form-row">
                         <div class="col-md-6 mb-3">
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="dradio" checked value="8 km Luangprabang Rd (13N), Ban Nalao (Thong Pong Area), Sikhottabong District, Vientiane Capital" id="radio_one" required>
+                                <input class="form-check-input" type="radio" name="dradio" checked value="lcoation four" id="radio_one" required>
                                 <label class="form-check-label" for="radio_one">
-                                    8 km Luangprabang Rd (13N), Ban Nalao (Thong Pong Area), Sikhottabong District, Vientiane Capital)
+                                    Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh
                                 </label>
                                 <div class="invalid-feedback">
                                     You must select one of the options!
@@ -98,9 +98,9 @@
                         </div>
                         <div class="col-md-6 mb-3">
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="dradio" value="VIENTIANE CAPITAL: 307 Asean (T2) Road, Ban Nongduang Neua, Sikhottabong, Vientiane Capital" id="radio_two" required>
+                                <input class="form-check-input" type="radio" name="dradio" value="location three" required>
                                 <label class="form-check-label" for="radio_two">
-                                    VIENTIANE CAPITAL: 307 Asean (T2) Road, Ban Nongduang Neua, Sikhottabong, Vientiane Capital
+                                    Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh
                                 </label>
                                 <div class="invalid-feedback">
                                     You must select one of the options!
@@ -111,9 +111,9 @@
                     <div class="form-row">
                         <div class="col-md-6 mb-3">
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="dradio" value="2 km Near Nation Stadium Rd (13S), Ban Keosamphan, Pakse District, Champasack Province" id="radio_three" required>
+                                <input class="form-check-input" type="radio" name="dradio" value="location two" id="radio_three" required>
                                 <label class="form-check-label" for="radio_three">
-                                    2 km Near Nation Stadium Rd (13S), Ban Keosamphan, Pakse District, Champasack Province
+                                    Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh
                                 </label>
                                 <div class="invalid-feedback">
                                     You must select one of the options!
@@ -122,9 +122,9 @@
                         </div>
                         <div class="col-md-6 mb-3">
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="dradio" value="CHAMPASACK BRANCH: No.13S Road, Ban Chokaumnoi, Pakse District, Champasak Province" id="radio_four" required>
+                                <input class="form-check-input" type="radio" name="dradio" value="location_one" id="radio_four" required>
                                 <label class="form-check-label" for="radio_four">
-                                    CHAMPASACK BRANCH: No.13S Road, Ban Chokaumnoi, Pakse District, Champasak Province)
+                                    Isuzu K (Cambodia) Confederation de la Russie (St. 11). in front of Phnom Penh Internation Airport, Kbal Damrey Village, Phnom Penh
                                 </label>
                                 <div class="invalid-feedback">
                                     You must select one of the options!

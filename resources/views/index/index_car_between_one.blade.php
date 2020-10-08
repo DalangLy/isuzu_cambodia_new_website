@@ -14,10 +14,10 @@
             <div class="d-car-between-item-one index-car-between-item-order-top-one">
                 <div class="d-car-between-item-text-frame-one">
                     <div class="d-car-between-title-one">
-                        <img class="d-car-between-title-svg-one {{app()->getLocale()=='en'?'d-hide':''}}" data-aos="fade-up" data-aos-duration="1000" src="{{asset('storage/images/home/text/spark.svg')}}" alt="">
-                        <img class="d-car-between-title-one {{app()->getLocale()=='kh'?'d-hide':''}}" data-aos="fade-up" data-aos-duration="1000" src="{{asset('storage/images/home/text/ALL-NEW ISUZU V-CROSS 4X4-01.svg')}}" alt="">
-{{--                        <h2 class="d-car-between-desktop-title-text-one" data-aos="fade-up" data-aos-duration="1000">{!! Lang::choice('index_lang.all_new_isuzu_dmax_spark', 1) !!}</h2>--}}
-{{--                        <h2 class="d-car-between-mobile-title-text-one" data-aos="fade-up" data-aos-duration="1000">{!! Lang::choice('index_lang.all_new_isuzu_dmax_spark', 2) !!}</h2>--}}
+{{--                        <img class="d-car-between-title-svg-one {{app()->getLocale()=='en'?'d-hide':''}}" data-aos="fade-up" data-aos-duration="1000" src="{{asset('storage/images/home/text/spark.svg')}}" alt="">--}}
+{{--                        <img class="d-car-between-title-one {{app()->getLocale()=='kh'?'d-hide':''}}" data-aos="fade-up" data-aos-duration="1000" src="{{asset('storage/images/home/text/ALL-NEW ISUZU V-CROSS 4X4-01.svg')}}" alt="">--}}
+                        <h2 class="d-car-between-desktop-title-text-one" data-aos="fade-up" data-aos-duration="1000">{!! Lang::choice('index_lang.all_new_isuzu_dmax_spark', 1) !!}</h2>
+                        <h2 class="d-car-between-mobile-title-text-one" data-aos="fade-up" data-aos-duration="1000">{!! Lang::choice('index_lang.all_new_isuzu_dmax_spark', 2) !!}</h2>
                     </div>
 {{--                    <div class="d-car-between-desc">--}}
 {{--                        <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Description</p>--}}
