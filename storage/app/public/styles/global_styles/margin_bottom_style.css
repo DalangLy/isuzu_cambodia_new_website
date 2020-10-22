@@ -1,0 +1,9 @@
+.d-global-margin-bottom-for-mobile{
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .d-global-margin-bottom-for-mobile{
+        margin-bottom: 90px;
+    }
+}

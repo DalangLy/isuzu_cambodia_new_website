@@ -1,0 +1,98 @@
+/*success*/
+.d-interest-background{
+    width: 100%;
+    background-color: transparent;
+}
+.d-interest-section{
+    width: 55%;
+    margin: 0 auto;
+}
+.d-interest-content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+}
+.d-interest-item{
+    flex: 1;
+    height: 200px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    /* border: 1px solid black; */
+    position: relative;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    overflow: hidden;
+}
+.d-interest-item:link{
+    text-decoration: none;
+}
+.d-interest-label{
+    transition: 0.4s ease;
+}
+.d-interest-item:hover .d-interest-label{
+    color: red;
+}
+.d-interest-image{
+    width: 30%;
+    height: 30%;
+    overflow: hidden;
+}
+.d-interest-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.d-interest-shadow{
+    position: absolute;
+    height: 100%;
+}
+.d-interest-shadow-left{
+    right: 0;
+}
+.d-interest-shadow-right{
+    left: 0;
+}
+@media only screen and (max-width: 600px) {
+    .d-interest-background{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000000;
+        background: white;
+    }
+    .d-interest-section{
+        width: 100%;
+        -webkit-box-shadow: 0px 5px 22px 0px rgba(77,77,77,1);
+        -moz-box-shadow: 0px 5px 22px 0px rgba(77,77,77,1);
+        box-shadow: 0px 5px 22px 0px rgba(77,77,77,1);
+    }
+    .d-interest-content{
+        /* gap: 1px; */
+    }
+    .d-interest-item{
+        height: 90px;
+        padding: 5px;
+        gap: 10px;
+        background-color: white;
+        z-index: 10000000000000;
+    }
+    .d-interest-label{
+        font-size: 8px;
+    }
+    .d-interest-image{
+        width: 50%;
+        height: 50%;
+        overflow: hidden;
+    }
+    .d-interest-shadow{
+        /* display: none; */
+    }
+}
